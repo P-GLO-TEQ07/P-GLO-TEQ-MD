@@ -1,2 +1,4 @@
-# P-GLO-TEQ-MD
-The world of technology 
+##please visit the web to deploy.
+
+
+https://deploying-green.vercel.app/
